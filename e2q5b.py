@@ -24,3 +24,6 @@ for i in range(1, B.shape[0]- 1):
                 B[i][j] = G[k][l]*A[i-d+k][j-d+l]
 
 plt.imshow(B, cmap='gray')
+
+
+#cost complexity O(pq)
