@@ -1,6 +1,7 @@
 import math
 import numpy as np
 
+
 x = [10,100,1000,10000]
 h = [1e-9, 1e-12, 1e-15]
 

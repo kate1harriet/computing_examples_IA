@@ -40,3 +40,4 @@ print(y)
 z = run(function2, first_diff2, second_diff2, 1, tol, max_it)
 print(z)
 
+#THEREFORE quadratics converge with one iteration
